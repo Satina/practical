@@ -1,2 +1,2 @@
 # practical
-just playikng with github to get it all right.
+just playing with github to get it all right.
