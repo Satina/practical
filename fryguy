@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main ()
+*/first run for git repostiory*/
+{
+printf(*I can commit and compile. \n*);
+getchar ();
+return 0;
+}
