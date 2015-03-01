@@ -1,8 +1,0 @@
-#include <stdio.h>
-int main ()
-/* first_run_git_repostiory */
-{
-printf(*wanna commit and compile. \n*);
-getchar ();
-return 0;
-}
