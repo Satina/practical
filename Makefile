@@ -1,5 +1,5 @@
-all:	efc5
+all:	ex6
 CFLAGS=-Wall	-g
 
 clean:
-	rm	-f	efc5
+	rm	-f	ex6
