@@ -12,9 +12,9 @@ int main(int argc, char *argv[])
 	
 	// an array of strings
 	char *states[] = {
-		"California", "Texas", "Oregon", "Maine"
+		"California", "Texas", "Oregon", "Maine", "Peru", "Utah"
 	};
-	int num_states = 4;
+	int num_states = 6;
 	for(i = 0; i < num_states; i++) {
 		printf("state %d: %s\n", i, states[i]);
 	}
