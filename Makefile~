@@ -1,5 +1,5 @@
-all:	ex8
+all:	ex9
 CFLAGS=-Wall	-g
 
 clean:
-	rm	-f	ex8
+	rm	-f	ex9
